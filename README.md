@@ -14,6 +14,22 @@
 <p align="center">
   <a href="https://twitter.com/hrishikeshms29">
     <img src="https://img.shields.io/twitter/follow/hrishikeshms29?label=Twitter&style=social" alt="Twitter" />
+    
+  </a>
+  <a href="https://twitter.com/hrishikeshms29">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/hrishikeshmsh2003">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/hrishikesh.m.s_29">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" />
+  </a>
+  <a href="https://www.hackerrank.com/hrishikeshms29">
+    <img src="https://img.icons8.com/color/48/000000/hackerrank.png" alt="HackerRank" />
+  </a>
+  <a href="https://www.leetcode.com/hrishikeshms29">
+    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" />
   </a>
 </p>
 
